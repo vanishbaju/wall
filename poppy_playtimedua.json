@@ -1,0 +1,340 @@
+{
+
+  "ADS": [
+
+    {
+
+      "select_main_ads": "ADMOB",
+
+      "select_backup_ads": "",
+
+      "main_ads_banner": "ca-app-pub-4898910776136267/9226627838",
+
+      "main_ads_intertitial": "ca-app-pub-4898910776136267/2469647791",
+
+      "backup_ads_banner": "",
+
+      "backup_ads_intertitial": "",
+	  
+	  "native_ads_admob": "ca-app-pub-4898910776136267/3591157775",
+
+      "initialize_sdk": "",
+
+      "initialize_sdk_backup_ads": "",
+
+      "interstitial_counter": "3",
+
+      "high_paying_keyword_1": "",
+
+      "high_paying_keyword_2": "",
+
+      "high_paying_keyword_3": "",
+
+      "high_paying_keyword_4": "",
+
+      "high_paying_keyword_5": "",
+
+      "status_app": "0",
+
+      "link_redirect": "https://"
+
+    }
+
+  ],
+
+  "DATA": [
+
+    {
+
+      "id": 1,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Poppy Playtime Ch. 2",
+
+      "duration": "01:45",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "Fly in a Web",
+
+      "url": "file:///android_asset/Poppy Playtime Ch 2 OST (01) - Fly in a Web.mp3"
+
+    },
+	
+	{
+
+      "id": 2,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Poppy Playtime Ch. 2",
+
+      "duration": "00:50",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "Mommy Long Legs",
+
+      "url": "file:///android_asset/Poppy Playtime Ch 2 OST (02) - Mommy Long Legs.mp3"
+
+    },
+	
+	{
+
+      "id": 3,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Poppy Playtime Ch. 2",
+
+      "duration": "01:12",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "A Doll in Distress",
+
+      "url": "file:///android_asset/Poppy Playtime Ch 2 OST (03) - A Doll in Distress.mp3"
+
+    },
+	
+	{
+
+      "id": 4,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Poppy Playtime Ch. 2",
+
+      "duration": "00:25",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "The Game Station",
+
+      "url": "file:///android_asset/Poppy Playtime Ch 2 OST (04) - The Game Station.mp3"
+
+    },
+	
+	{
+
+      "id": 5,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Poppy Playtime Ch. 2",
+
+      "duration": "01:43",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "Everything Will Melt",
+
+      "url": "file:///android_asset/Poppy Playtime Ch 2 OST (05) - Everything Will Melt.mp3"
+
+    },
+	
+	{
+
+      "id": 6,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Poppy Playtime Ch. 2",
+
+      "duration": "01:34",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "Game On",
+
+      "url": "file:///android_asset/Poppy Playtime Ch 2 OST (06) - Game On.mp3"
+
+    },
+	
+	{
+
+      "id": 7,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Poppy Playtime Ch. 2",
+
+      "duration": "02:00",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "Too Perfect to Lose",
+
+      "url": "file:///android_asset/Poppy Playtime Ch 2 OST (07) - Too Perfect to Lose.mp3"
+
+    },
+	
+	{
+
+      "id": 8,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Poppy Playtime Ch. 2",
+
+      "duration": "00:35",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "Quick Intervention",
+
+      "url": "file:///android_asset/Poppy Playtime Ch 2 OST (08) - Quick Intervention.mp3"
+
+    },
+	
+	{
+
+      "id": 9,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Poppy Playtime Ch. 2",
+
+      "duration": "01:57",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "The Tale of Barry",
+
+      "url": "file:///android_asset/Poppy Playtime Ch 2 OST (09) - The Tale of Barry.mp3"
+
+    },
+	
+	{
+
+      "id": 10,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Poppy Playtime Ch. 2",
+
+      "duration": "01:20",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "Lights Off",
+
+      "url": "file:///android_asset/Poppy Playtime Ch 2 OST (10) - Lights Off.mp3"
+
+    },
+	
+	{
+
+      "id": 11,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Poppy Playtime Ch. 2",
+
+      "duration": "02:42",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "Clocking Some Overtime",
+
+      "url": "file:///android_asset/Poppy Playtime Ch 2 OST (11) - Clocking Some Overtime.mp3"
+
+    },
+	
+	{
+
+      "id": 12,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Poppy Playtime Ch. 2",
+
+      "duration": "00:34",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "Peek-A-Boo!",
+
+      "url": "file:///android_asset/Poppy Playtime Ch 2 OST (12) - Peek-A-Boo!.mp3"
+
+    },
+	
+	{
+
+      "id": 13,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Poppy Playtime Ch. 2",
+
+      "duration": "00:56",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "One Last Game",
+
+      "url": "file:///android_asset/Poppy Playtime Ch 2 OST (13) - One Last Game.mp3"
+
+    },
+	
+	{
+
+      "id": 14,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Poppy Playtime Ch. 2",
+
+      "duration": "00:57",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "Arachnophobia",
+
+      "url": "file:///android_asset/Poppy Playtime Ch 2 OST (14) - Arachnophobia.mp3"
+
+    },
+	
+	{
+
+      "id": 15,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Poppy Playtime Ch. 2",
+
+      "duration": "00:40",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "When I'm Free",
+
+      "url": "file:///android_asset/Poppy Playtime Ch 2 OST (15) - When I'm Free.mp3"
+
+    },
+	
+	{
+
+      "id": 16,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Poppy Playtime Ch. 2",
+
+      "duration": "01:12",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "Downward Spiral",
+
+      "url": "file:///android_asset/Poppy Playtime Ch 2 OST (16) - Downward Spiral.mp3"
+
+    }
+	
+	
+
+
+  ]
+
+}
