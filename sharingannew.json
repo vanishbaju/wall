@@ -1,0 +1,116 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "",
+      "main_ads_banner": "ca-app-pub-4898910776136267/2836621835",
+      "main_ads_intertitial": "ca-app-pub-4898910776136267/3958131810",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+	  "main_ads_native": "ca-app-pub-4898910776136267/2453478451",
+      "backup_ads_native": "",
+      "interstitial_counter": "3",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "keyword_home_fragment": "sharingan",
+      "show_category": "yes"
+    }
+  ],
+ "DATA": [
+    {
+      "title_search": "Animals",
+      "image_url": "https://fsa.zobj.net/crop.php?r=V3xbRUPw5ZC1vQ22xKEM7A1Yd14l_66hDkWTuASVvCa_nLqfQQc9Clho9piEpIl80ENI5BtrVZjiimHORCFRK7chtve05dCei3Y0j21zuEc_bLu1fzqSfevNsAHoBPvK3P3eA5VICvPupTZgGSQ3gxJBCzI37jOXgaGorCvF_qdWBq6BQWCXnf8Fl_IVmGP2UCXBT5Q4ksZvW9Lp"
+    },
+    {
+      "title_search": "Anime",
+      "image_url": "https://fsb.zobj.net/crop.php?r=uOoftktYhiLFwAVuQChUlnrGTD0rd-v5Cp37BSRgtphBCUO3OAm-diZ-FHvAVRLSZJaIu6VXMK_rIHgzdEg2801SKll4YLikd4_DveMpEOyMTowbX8qU1slssYfv4olnp4ZhsMTwgDnFV04iP7OwP1cI6Bt-Ylnn00S2cqURTqZ6JYnEj2Mj6dy081hYIe7-_LhVV3c3T9UI51d1"
+    },
+	{
+      "title_search": "Logos",
+      "image_url": "https://fsb.zobj.net/crop.php?r=RLiEKNp_rVzjm1rdCWGkW1RPUA8RfMI4vj5HQVov7fsuCyNgIachEk5RzhohHQY-8sBcU5nn-QgVOcPjT-kCpYqc_weT6c-27TOIScPk4OhaR6wqpthVItQ1sTIEJMbBAMWVjBfb0YPQmqTfeu1JolxIBBUI7Rns3lVx_HtULitE-WwKdpq286zd4uQ"
+    },
+	{
+      "title_search": "Cars & Vehicles",
+      "image_url": "https://fsa.zobj.net/crop.php?r=U6dB7Bm7_CDkYlOxuYGxmgCM_PPI9AD0L5PlPMofbu_4kheowOgYXU3NHTQdeWmzac8D21UgbtZWksawMC_mPJDx_LGloUTc0IIf1jYvOI4OumfzcBMocOWcOXQ0YLV93O7vO-DpGTmQiVc84Dpl2V5XEeZOKOcv8hkct-9wU9ivpzDDHe0GKZVrCMm3-M4vf-FRf0CMv0hszOvt"
+    },
+	{
+      "title_search": "Designs",
+      "image_url": "https://fsa.zobj.net/crop.php?r=zFtZvV038ypypB1L4tfRVu_RIkowchtZjB02Im3giS-dl6GryElZAgv01Lmrc48hc7P7BTWe-MURDacH8RbYxHXWKIi0Thw15vcYABjG424SwRY3HfOKVZEAuv4uOzBy4N4sxMRD83qH2TQru_qIia-Qk8zSwG8fpS_Xf4yoCKPn8r1MLhzdYUQGnO0"
+    },
+	{
+      "title_search": "Drawings",
+      "image_url": "https://fsb.zobj.net/crop.php?r=G276Lf7ItnyW0I8Krl866H5f4GNgNi-lCivhAlJ1LFvDfkKk1CPasEuR82msXXmxOuuxC5koVdMK5w4EjZDPUmIOteABa0cG_TGBFgna2k2gS5n4mEqjeAo9_iKez00pCTpTlMLIT7AI0dBxxhRoseSIHlIf2MqEf8T3Bio_qGuBn1plaf3gHewn-EMMMMuQJEUbUqP3Fyt5kmMP"
+    },
+	{
+      "title_search": "Entertainment",
+      "image_url": "https://fsb.zobj.net/crop.php?r=0z4jaB1pmxDG12ox0zHd-IYY2A7XEMKbpweCcb12sGVBe4vnDj7KGzT5fl3ygVZScAl7ki8HlR7ycEdOue5heO8oTudbFIGwjImlSaEYBRpl8yu2Ma7lNyEbbhckvppqNeB87kIc105ahnp6vltFzeUXp3B87CTQzrOo4SUunr8l6YCdEQcjOoCHqADRWjxIVUlPI-WOMR0njoaB"
+    },
+	{
+      "title_search": "Funny",
+      "image_url": "https://fsa.zobj.net/crop.php?r=qc5-r_i1I-RkOHLykhknpVaaRSxWDavMxMOHSEgzr4LNDkaw-HiqRxJjZ8lXJEx_d9wLTWubzs2KXs_1gJG-1LLp4mVnGlAL1qtDROfiTc-UNzV_tB1ovQlKC1I_ThuE26XUAP9TrGuHZfKzDUCwRFo3L8ioaPgclPsq4C1Ye1GzDhz5u7WTtvGcDmI3He-fxtQDfdkgNdTuFUXi"
+    },
+	{
+      "title_search": "Games",
+      "image_url": "https://fsb.zobj.net/crop.php?r=zOQjyUd__yFxKr7L__d1mYTIueaXOPVsjz1kEtsUUFXPhXbJyD6Arrj-sImUpoMd2comE2qP1bsa8uxyNsBDuCRi27x7LwnKjotv15hXRXWYKZD4H1Cuv3IUNHmndGKGNdolB0U4CASoPEHB0ZQAsCRIoMxD7NbRedMfG_hoI5CCC4vzRiuDocQu3Fk"
+    },
+	{
+      "title_search": "Holidays",
+      "image_url": "https://fsb.zobj.net/crop.php?r=dlIkX6vG_VJRqu0cgqqGvFPfePTEHCO_iS2wpsZ7doQAOruhTWLj8YhG2-Bvy7_tthINnWxqqz_AYz0lbgwayYKq3Cj9vCTTrZHeWXmA5AK9vfC8vmJn6BXEHOfXwf2Ic8e1Hg12a_swrKpeYHv9Vc6Qs7KgrONctoZxkNTxL5AK-bmJEBGWkei5hi4"
+    },
+	{
+      "title_search": "Love",
+      "image_url": "https://fsa.zobj.net/crop.php?r=NznD1ysEl--ux3RdeaTWuz391rltv1o-UIAEKVljTFf1MKPG8zQz2CbO0uqmG3iH54HyTmvGWn70lcCY4yS-6RnIhF7scw5mcfALqoD1jEp6EmdslzLYTo9KejHGxP84aq19hYjOu_3ej7KlYqmdHyLn9f-gW7u9-bDrQmdU_Rn4WLygegx7HmxokUxER4gs3oeuKDp3pGhg4_l4"
+    },
+	{
+      "title_search": "Music",
+      "image_url": "https://fsa.zobj.net/crop.php?r=enuCHDNFypjh1bcQDKnL31qI73b_BuTnYFHXSAglhPn34rw0WcEl3DMbpjGokrLHxMh7pEZ5Z-5SjcrrT2DTFC8j5D67Lp4AMuKetfTNHblww8v4tf5lkdjwncS8Q7D4oKJStwleA6WfAEXSyApubRBom-zBdC3DGeveF0I5K2BcMNVq_q_wiIteyhrszolOC84puH4qF3zUFAx9"
+    },
+	{
+      "title_search": "Nature",
+      "image_url": "https://fsa.zobj.net/crop.php?r=HuiZw5Q-Tm7p3E9PECxAFGWjUQ1bDeGGlyjLpKJBSkZ0EW5LmA5_bvv29ZVbZj8ppyEmMt5oBJT_qMAqCnyNg_O_RP3522o78KjonXAnmplRdv7UKdnBsHBgpQ1jGuLDCjEKciyfpzH6dwhvgUCrxxddTDmdJg5y313co4Ho_Eiq8gZdesZCMShdunEq9rsNoW1bi8QjeIHMPB35"
+    },
+	{
+      "title_search": "News & Politics",
+      "image_url": "https://fsb.zobj.net/crop.php?r=DzaKziJJkEaWETKV0MS5VM44GsPladfLmMP19zezvwC0vznFocAB9kneay76-3v9-j3mJG_lSP3p_d6AiSIAbr-JbKwxxyGoreF4X2NJCxEVoF2dKmtPHl0ub6MuMXbjco15rXq0UQ5yG8JIf0Ax4jD58-7oO5fsPiycZRo5k3wCFfLhrGfP9gZICNMe__lbd7d9CSkbw6z0yp9J"
+    },
+	{
+      "title_search": "Other",
+      "image_url": "https://fsa.zobj.net/crop.php?r=FJbERcfcic5nR03hC-Vzk-9Lja9GYfoAw8YMxWqRD3sUOqh1UZvCxILE743wGq0Ph_3J_9WRy3L_1FwNVqSaDadralZbqAdwZc3u-mjLvRAWGWRxNexw9BItJQVVenmEPkXQFc9QBd2haN5-ZAI-lWzh0QNrAcl4lGZxpYUjcDPtDjx-WEGUqufMTgbc-K-qPYeH6jsX7ScszNub"
+    },
+	{
+      "title_search": "Patterns",
+      "image_url": "https://fsb.zobj.net/crop.php?r=PkoZRUaYzrDX0UCfRwH69CIDXGf1LJqAFDwqFPclRyvsCaKI0OiLHo-rfJ_I84wINyX0nV33BFTTcOe-QjX8t0ism7kYj4nE5AJ0ACtZK4wPyr8A-UR0BuRlLWsEPeCh9BZ1EzsP-OF_46qfRk0iIyXXG_oKYoaqpztHqPFtmOgvVErwzsYxd8KbegnBxvyBZ7xCGN3Cu64nu4l3"
+    },
+	{
+      "title_search": "People",
+      "image_url": "https://fsb.zobj.net/crop.php?r=NOUscPIQ2T_-E6us0Lu1qixLNqk6Gbp0QuTvgO9oE57Ls-mVEnqN5Ae9oJ5stGCy-tJAyn5-B4Dl43FZCwTG6vxf4rgKw6Z-_VwUU1_wbN9JuU0a4R8SDL_v3KsCrzTe-tuuwY_3UPdAy7bplJKIRJ9Bv126Z8pP1hPzwqxa1X-fBWEcAP7VnshK_8E-j8PLpyjACUAfYhuQo2oT"
+    },
+	{
+      "title_search": "Sayings",
+      "image_url": "https://fsb.zobj.net/crop.php?r=qcao81XNBixa7Ffff1_r9IAcIVX179REpYw2ozPKrQCy3kxgv7X8Z4c8vIxy-9BrcayYNMNl9JTbYSytMNq5NRPi5P-iGbNnnZtPHZWi2HrzN1-5zaGd4gc1khJn0ISw98dS8fklA6b59CRebJ1Akh9GaqM749Yx2RSAtX8W03oyjnTRFZh9P9VIStmlr1g22erxTnnT9g6QDRET"
+    },
+	{
+      "title_search": "Spiritual",
+      "image_url": "https://fsa.zobj.net/crop.php?r=3r0wqNlaRwWZF9uZtwM2Ns_hewrkJfB2qV3XFK0Hd1ol0sCoENuCPVBF9s-NTOOpA0l-8-Nm8Qf8vXXVTG2Y5v9H1p1PK7PWV2aLbCzMNYJpoyS_aYZk3ZqxP7q__zk91ks-gkFGSPKBP4lNz30p7zUfb_ZdQ1cJEVUcve1tLo_zLyg77QBPfw75UbM"
+    },
+	{
+      "title_search": "Technology",
+      "image_url": "https://fsb.zobj.net/crop.php?r=Tf4e3-ibHO5wbPkz3Qy_nEKEh-_q0Zl57hYq-I4G5D_c6KsSyozYKynzJrMI2T9-B-NKKu9n2Qd8d4dCRTYFgqZz2oTtkbru11NheePAMR9_5f1OZAZDdRwMS4D9Vtd4f3wDgM3xU5fUlmVx5a2kRQrSZVza9Bh84YF3IK-hxyCCwBclP-CIT97D4WLIoi2wSEd4d0LQ4SWpRebl"
+    },
+	{
+      "title_search": "Space",
+      "image_url": "https://fsa.zobj.net/crop.php?r=jdORUR1PH7n5cC2UbKwjGuTUK4_fq97Mk0qO-e2ifgZ84cA3By1afRkLU6X6cb8K7e-9KRWGWL8FLUZE2XdbV5Qx7m2GcXCUEPkqcqPhJlLqcvTD8UrCKEuVd2eHh7itezg-yTncL8t2lF3RBT0_q5ZCNEMhiQ0p6t1VwgffPCANj3h9P1Njskdrteg"
+    },
+    {
+      "title_search": "Comics",
+      "image_url": "https://fsa.zobj.net/crop.php?r=KkEMGrC6nP_znOFvymGw26WI4onsnUC-2-jIK9R_TRBptetqwrtFE5SSBDyj2vgv4z00ifAqkx4xMY3F1OaTFl3Wwo9ht9cc2KzNGCb54rLAJPiIo6XxCsil_DQlXHmBLd2hOHMrJOmS6qwO4GhGbj6hQexLQAF0DvxHs5MsxSKz1DA-I7U3DTd-hg8AvBIn1O65iXEv5GPrIftQ"
+    }
+  ]
+}
